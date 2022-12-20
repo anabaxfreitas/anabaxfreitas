@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anabaxfreitas
-- 👀 I’m interested in 3D Arts
+- 👀 I’m 3D Artist
 - 🌱 I’m currently learning Blender
-- 📫 How to reach me anab.axfreitas@gmail.com
+- 📫 You can reach me at anab.axfreitas@gmail.com
 
 <!---
 anabaxfreitas/anabaxfreitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
