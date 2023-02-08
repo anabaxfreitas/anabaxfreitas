@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anabaxfreitas
-- 👀 I’m 3D Artist
+- 👀 3D Artist
 - 🌱 Learning Blender
 - 📫 You can reach me at anab.axfreitas@gmail.com
 
