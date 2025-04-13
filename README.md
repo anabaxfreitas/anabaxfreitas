@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anabaxfreitas
 - 👀 3D Artist
-- 🌱 Learning Blender / Nomad / Godot 
-- Side learnings: Italian / Project Manager / SCRUM
+- 🌱 Learning Blender / Nomad / Python 
+- Side learnings: Italian / Project Manager / SCRUM / Godot
 
 <!---
 anabaxfreitas/anabaxfreitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
